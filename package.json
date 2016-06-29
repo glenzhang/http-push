@@ -1,0 +1,21 @@
+{
+  "name": "http-push",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http-push.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "flavored-path": "0.0.8",
+    "formidable": "^1.0.17",
+    "lodash": "^4.13.1",
+    "mkdirp": "^0.5.1",
+    "request": "^2.72.0",
+    "yargs": "^4.7.1"
+  }
+}
